@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37429945556",
+    "project_id": "subwayapp-f6319",
+    "storage_bucket": "subwayapp-f6319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37429945556:android:c971fd46a1909771d00741",
+        "android_client_info": {
+          "package_name": "com.haram.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37429945556-7phofa4oi0mea6145r62ff2g0s2863ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBrG9Cnr5b5q5BEllo01MIgjFMEHOOP9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37429945556-7phofa4oi0mea6145r62ff2g0s2863ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

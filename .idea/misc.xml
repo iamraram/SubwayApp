@@ -8,6 +8,7 @@
         <entry key="app/src/main/res/drawable/roundbuttonwhiteRed.xml" value="0.1395" />
         <entry key="app/src/main/res/drawable/roundbuttonwhitecaution.xml" value="0.1395" />
         <entry key="app/src/main/res/drawable/roundbuttonwhitegray.xml" value="0.1395" />
+        <entry key="app/src/main/res/layout/activity_complete.xml" value="0.25144500732421876" />
         <entry key="app/src/main/res/layout/activity_help.xml" value="0.24818840579710144" />
         <entry key="app/src/main/res/layout/activity_launch.xml" value="0.24818840579710144" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.2375" />
